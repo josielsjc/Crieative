@@ -13,6 +13,11 @@ body {
     position: relative;
   }
 
+  .rounded-circle{
+    margin-top: 40px;
+
+    border: solid white 3px;
+}
 
 html, body {
      width: 100%;
