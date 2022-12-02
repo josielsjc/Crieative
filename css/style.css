@@ -32,9 +32,15 @@ color:  #ffffff;
   color: #ffffff;
  font-weight: bold;
  font-size: 20px;
- margin-top: 90px;
+
 }
 
+.cliente{
+  max-width: 80px;
+  width: 80px;
+height: 80px;
+border-radius: 50%;
+}
 
 html, body {
      width: 100%;
@@ -635,13 +641,93 @@ contact section
   background: #3B3B3B url('../images/about-img.jpg') no-repeat center center ;
   background-size: cover;
   color: #ffffff;
-
-
-background: linear-gradient(90deg, rgba(2,0,36,0.6895133053221288) 0%, rgba(0,134,215,1) 35%, rgba(0,212,255,1) 100%);
+  background: linear-gradient(90deg, rgba(2,0,36,0.6895133053221288) 0%, rgba(0,134,215,1) 35%, rgba(0,212,255,1) 100%);
 }
+ .cliente2{
+  vertical-align: middle;
 
+  border-style: none;
+
+  width: 7%;
+  
+  height: auto;
+  
+  -moz-transition: all 0.3s;
+  
+  -webkit-transition: all 0.3s;
+  
+  transition: all 0.3s;
+  }
+
+  .cliente2:hover {
+
+    vertical-align: middle;
+    
+    border-style: none;
+    
+    width: 10%;
+    
+    height: auto;
+    
+    -moz-transition: all 0.3s;
+    
+    -webkit-transition: all 0.3s;
+    
+    transition: all 0.3s;
+    
+    }
+ .rounded-circle{
+  vertical-align: middle;
+  border-style: solid 50px;
+  border-color: -moz-linear-gradient(top, #555555, #111111);
+
+
+  width: 80%;
+  
+  height: auto;
+  
+  -moz-transition: all 0.3s;
+  
+  -webkit-transition: all 0.3s;
+  
+  transition: all 0.3s;
+  }
+
+  .rounded-circle:hover {
+    border-style: solid 50px;
+    border-color: -moz-linear-gradient(top, #555555, #111111);
+
+    vertical-align: middle;
+    
+    border-style: none;
+    
+    width: 100%;
+    
+    height: auto;
+    
+    -moz-transition: all 0.3s;
+    
+    -webkit-transition: all 0.3s;
+    
+    transition: all 0.3s;
+    
+    }
+
+    #maeda{
+      margin-right: 30px;
+    }
+    #pablo{
+      margin-right: 30px;
+    }
+
+    #karina{
+      margin-left: -40px !important;
+    }
+    #kalel{
+      margin-right: 30px;
+    }
 .depo{
-  margin-top: 50px;
+
   font-size: 30px;
   text-align: center;
  font-weight: bold;
