@@ -13,11 +13,28 @@ body {
     position: relative;
   }
 
+
   .rounded-circle{
     margin-top: 40px;
+    border-radius: 50%;
+    border: solid #00C6D7 3px;
 
-    border: solid white 3px;
 }
+.my-55, .my-5  {
+  color: black;
+}
+
+.funcoes{
+color:  #ffffff;
+}
+
+.missao{
+  color: #ffffff;
+ font-weight: bold;
+ font-size: 20px;
+ margin-top: 90px;
+}
+
 
 html, body {
      width: 100%;
@@ -612,6 +629,32 @@ contact section
   background: #3B3B3B url('../images/contact-bg.jpg') no-repeat center center;
   background-size: cover;
   color: #ffffff;
+}
+
+#Time{
+  background: #3B3B3B url('../images/about-img.jpg') no-repeat center center ;
+  background-size: cover;
+  color: #ffffff;
+
+
+background: linear-gradient(90deg, rgba(2,0,36,0.6895133053221288) 0%, rgba(0,134,215,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.depo{
+  margin-top: 50px;
+  font-size: 30px;
+  text-align: center;
+ font-weight: bold;
+}
+
+marquee{
+  font-size: 25px;
+}
+li{
+  list-style-type: none;
+}
+#contact{
+  margin-top: 300px;
 }
 #contact h2 {
   padding-bottom: 20px;
