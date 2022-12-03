@@ -854,3 +854,16 @@ media quires for mobile
     font-size: 12px;
   }
 }
+
+@media (max-width: 992px)
+{
+  .rounded-circle
+   {
+    max-width: 100px;
+    height: auto !important;
+   }
+
+   .mb-3{
+
+   }
+}
