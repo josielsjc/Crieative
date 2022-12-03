@@ -860,7 +860,7 @@ media quires for mobile
   .rounded-circle
    {
     max-width: 100px;
-    height: auto !important;
+    height: 100px !important;
    }
 
    .mb-3{
