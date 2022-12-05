@@ -20,11 +20,13 @@ body {
     border: solid #00C6D7 3px;
 
 }
-.my-55, .my-5  {
+.my-55 , .my-5  {
+
   color: white; text-shadow: black 0.1em 0.1em 0.2em
 }
 
 .funcoes{
+  margin-left:  40px;
 color:  #ffffff;
 }
 
@@ -722,20 +724,31 @@ background-color: rgb(231, 231, 231);
     }
 
     #maeda{
-      margin-right: 30px;
+  
+      margin-right: -60px;
     }
     #pablo{
       margin-right: 30px;
+
     }
 
+    .portfolio-img5 {
+ 
+      color: white; text-shadow: black 0.1em 0.1em 0.2em
+    }
+
+    #pablo{
+      margin-right: -70px;
+    }
     #karina{
-      margin-left: -40px !important;
+      margin-right: -70px;
+      margin-left: 18x !important;
     }
     #kalel{
-      margin-right: 30px;
+      margin-right: -30px;
     }
     #josiel{
-      margin-right: 30px;
+      margin-right: -30px;
     }
 .depo{
 
